@@ -1,6 +1,6 @@
 ![](../images/starbucks.jpg)
 <H2>Do you buy more when things are cheaper?</H2>
-<H4><i><p style="color:gray">A deeper look at Starbucks’ offers using data science</i></H4></p>
+<H4><i><p style="color:gray">A deeper look at Starbucks’ offers using data science</p></i></H4>
 
 If you think that trying to wrestle not one, but three of <a href="https://www.starbucks.ca/">Starbucks'</a> simulated customer offer datasets sounds like a lot of fun for a Data nerd, you would be right. Now toss in a harrowing journey where the driver decides to take a leisurely but more complicated detour, only to double back and follow the path he should have taken... now you’re closer to the story I am about to tell.<br>
 
