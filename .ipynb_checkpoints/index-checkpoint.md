@@ -23,4 +23,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I learned, remembered, detoured, and had some pretty good fun with this project. The dataset presented some real-world challenges, and I had to flex both my basic analysis, and machine learning muscles in order to make sense of it all. If you want to dive into the actual code, just check out the repository.<br>
 
 <b>What’s your next Data Science project?</b>
+
 </body>
