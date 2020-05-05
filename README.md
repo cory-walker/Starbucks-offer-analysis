@@ -1,4 +1,4 @@
-# Starbucks_promotion_recommendations
+# Starbucks Offer Analysis
  This is my Data scientist capstone project for the Udacity Data Scientist nanodegree.<br>
  We clean, join, and analyze a dataset containing customer transactions, and offers made to them over a period of about 30 days.
 
